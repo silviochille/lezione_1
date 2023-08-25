@@ -1,0 +1,22 @@
+/* Commento */
+/* body è una regola (ridefenizione di TAG)*/
+/*background è una proprietà*/
+body
+{background:#ccc}
+
+h1 /*h1 è un TAG block occupa in larg tutta la superficie a disposizione*/
+{
+color:#fff;
+background:green;
+width:60%;/*px ,%,em,rem,cm*/
+text-align:center
+}
+
+.contenitoreform
+{
+width:80%;
+border:1px solid #000	
+}
+
+label 
+{display:block}
